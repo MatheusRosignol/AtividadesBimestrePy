@@ -1,0 +1,3 @@
+Conceito de Composição:
+
+A composição é um princípio de design orientado a objetos onde objetos complexos são construídos combinando diferentes objetos mais simples ou componentes. Em outras palavras, um objeto é composto por outros objetos, permitindo que ele tenha funcionalidades e características de vários outros objetos. Isso ajuda a criar estruturas mais flexíveis e modulares, onde os componentes podem ser reutilizados em diferentes contextos.
